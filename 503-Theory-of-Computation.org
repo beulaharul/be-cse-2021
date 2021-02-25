@@ -111,7 +111,7 @@ After the completion of this course, students will be able to:
 1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata
    Theory, Languages and Computations'', Pearson Education, 3rd
    Edition, 2008.
-
+     
 ** References
 1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the
    Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.

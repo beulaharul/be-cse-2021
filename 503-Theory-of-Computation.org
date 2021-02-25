@@ -31,7 +31,7 @@
   grammar for any given language
 - To construct pushdown automata for any CFL
 - To understand Turing machines and their capability
-- To understand undecidable problems.
+- To understand undecidable problems .
 
 #+begin_comment
 1. Each unit is reframed according to the computational models. 
